@@ -18,7 +18,7 @@ Os exercícios estão organizados em níveis de dificuldade, para guiar o aprend
 
 ---
 
-## ▶️ Como Executar um Exercício
+## Como Executar um Exercício
 
 Abra um terminal na raiz do projeto e compile/execute com:
 
