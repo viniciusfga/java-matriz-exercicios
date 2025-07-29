@@ -1,6 +1,6 @@
 # 💻 Projeto de Exercícios Java com Matrizes
 
-Este repositório contém uma coleção progressiva de exercícios de **programação orientada a objetos em Java**, com foco em **matrizes bidimensionais**.
+Este repositório contém uma coleção progressiva de exercícios que envolve matrizes.
 
 Os exercícios estão organizados em níveis de dificuldade, para guiar o aprendizado desde os fundamentos até desafios avançados, estilo maratona de programação.
 
@@ -8,9 +8,9 @@ Os exercícios estão organizados em níveis de dificuldade, para guiar o aprend
 
 ## 🗂️ Estrutura dos Níveis
 
-- 📘 **Aprendiz** — Fundamentos e primeiros passos com matrizes
-- 📗 **Intermediário** — Lógica aplicada e manipulação de dados
-- 📙 **Avançado** — Algoritmos complexos e otimizações
+- 🔰 **Aprendiz** — Fundamentos e primeiros passos com matrizes
+- 🧑‍🎓 **Intermediário** — Lógica aplicada e manipulação de dados
+- 🔥 **Avançado** — Algoritmos complexos e otimizações
 - 🥷 **Ninja** — Desafios práticos e problemas de lógica pesada
 - 🏆 **Olímpico** — Estilo OBI/Maratona, com foco em desempenho
 
