@@ -15,11 +15,17 @@ public class Exercicio01 {
         matriz_A[1][0] = 3;
         matriz_A[1][1] = 4;
 
+        System.out.println(matriz_A[0][0] + " " + matriz_A[0][1]);
+        System.out.println(matriz_A[1][0] + " " + matriz_A[1][1]);
+
         // Exemplo 3
         int[][] matriz_B = {
-                {1, 2},
-                {3, 4}
+                {4, 3},
+                {2, 1}
         };
+
+        System.out.println(matriz_B[0][0] + " " + matriz_B[0][1]);
+        System.out.println(matriz_B[1][0] + " " + matriz_B[1][1]);
 
     }
 }
