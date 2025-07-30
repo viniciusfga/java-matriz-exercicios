@@ -2,22 +2,22 @@
 
 ### Level 1 - Primeiros Passos (1 a 10)
 
-1. [Exercício 01: Declarar uma matriz 2x2 de inteiros](./Aprendiz/src/Level_1/Exercise01.java)
-2. [Exercício 02: Atribuir valores fixos à matriz e imprimir](./Aprendiz/src/Level_1/Exercise02.java)
-3. [Exercício 03: Imprimir matriz linha por linha usando dois for](./Aprendiz/src/Level_1/Exercise03.java)  
+1. [Exercício 01: Declarar uma matriz 2x2 de inteiros](./Aprendiz/src/Nivel_1/Exercise01.java)
+2. [Exercício 02: Atribuir valores fixos à matriz e imprimir](./Aprendiz/src/Nivel_1/Exercise02.java)
+3. [Exercício 03: Imprimir matriz linha por linha usando dois for](./Aprendiz/src/Nivel_1/Exercise03.java)  
    ...
-10. [Exercício 10: Imprimir matriz de double com uma casa decimal](./Aprendiz/src/Level_1/Exercise10.java)
+10. [Exercício 10: Imprimir matriz de double com uma casa decimal](./Aprendiz/src/Nivel_1/Exercise10.java)
 
 ### Level 2 - Lógica Simples (11 a 20)
 
-11. [Exercício 11: Criar matriz 3x3 com elementos iguais a 7](./Aprendiz/src/Level_2/Exercise11.java)
-12. [Exercício 12: Criar matriz 2x2 com números de 1 a 4](./Aprendiz/src/Level_2/Exercise12.java)  
+11. [Exercício 11: Criar matriz 3x3 com elementos iguais a 7](./Aprendiz/src/Nivel_2/Exercise11.java)
+12. [Exercício 12: Criar matriz 2x2 com números de 1 a 4](./Aprendiz/src/Nivel_2/Exercise12.java)  
     ...
-20. [Exercício 20: Matriz 3x3 com valores aleatórios entre 0 e 9](./Aprendiz/src/Level_2/Exercise20.java)
+20. [Exercício 20: Matriz 3x3 com valores aleatórios entre 0 e 9](./Aprendiz/src/Nivel_2/Exercise20.java)
 
 ### Level 3 - Desafios (21 a 25)
 
-21. [Exercício 21: Somar diagonal principal de matriz 3x3](./Aprendiz/src/Level_3/Exercise21.java)
-22. [Exercício 22: Verificar se todos os elementos da matriz 2x2 são iguais](./Aprendiz/src/Level_3/Exercise22.java)  
+21. [Exercício 21: Somar diagonal principal de matriz 3x3](./Aprendiz/src/Nivel_3/Exercise21.java)
+22. [Exercício 22: Verificar se todos os elementos da matriz 2x2 são iguais](./Aprendiz/src/Nivel_3/Exercise22.java)  
     ...
-25. [Exercício 25: Exibir maior valor de matriz 3x3](./Aprendiz/src/Level_3/Exercise25.java)
+25. [Exercício 25: Exibir maior valor de matriz 3x3](./Aprendiz/src/Nivel_3/Exercise25.java)
