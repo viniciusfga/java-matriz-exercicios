@@ -9,23 +9,5 @@ public class Exercicio01 {
         // Exemplo 1 - Declaração de uma matriz 2x2 vazia
         int[][] matriz_A = new int[2][2];
 
-        // Exemplo 2 - Atribuindo valores manualmente
-        matriz_A[0][0] = 1;
-        matriz_A[0][1] = 2;
-        matriz_A[1][0] = 3;
-        matriz_A[1][1] = 4;
-
-        System.out.println(matriz_A[0][0] + " " + matriz_A[0][1]);
-        System.out.println(matriz_A[1][0] + " " + matriz_A[1][1]);
-
-        // Exemplo 3
-        int[][] matriz_B = {
-                {4, 3},
-                {2, 1}
-        };
-
-        System.out.println(matriz_B[0][0] + " " + matriz_B[0][1]);
-        System.out.println(matriz_B[1][0] + " " + matriz_B[1][1]);
-
     }
 }
