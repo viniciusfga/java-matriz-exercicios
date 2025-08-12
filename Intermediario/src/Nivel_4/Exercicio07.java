@@ -1,26 +1,24 @@
-package Nivel_04;
+package Nivel_4;
 
-public class Exercicio08 {
+public class Exercicio07 {
     public static void main(String[] args) {
 
-        System.out.println("Calcular a média dos elementos de uma matriz double[][].");
+        System.out.println("Somar todos os elementos de uma matriz.");
 
-        double[][] matriz = {
+        int[][] matriz = {
                 {1, 2, 3},
                 {5, 6, 7},
                 {9, 1, 1}
         };
 
-        double soma = 0;
-        double media = 0;
+        int soma = 0;
 
         for (int i = 0; i < matriz.length; i++) {
             for (int j = 0; j < matriz[i].length; j++) {
                 soma += matriz[i][j];
             }
         }
-        media = soma / (matriz.length * matriz[0].length);
-        System.out.print(media);
+        System.out.print(soma);
 
     }
 }

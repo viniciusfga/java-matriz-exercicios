@@ -52,16 +52,16 @@
 
 ### Level 4 - Fundamentos (1 a 10)
 
-1. [Exercício 01: Criar matriz 2x2 manual](./src/Nivel_04/Exercicio01.java)
-2. [Exercício 02: Matriz 3x3 digitada](./src/Nivel_04/Exercicio02.java)
-3. [Exercício 03: Exibir matriz 4x4](./src/Nivel_04/Exercicio03.java)
-4. [Exercício 04: Aleatórios 3x3](./src/Nivel_04/Exercicio04.java)
-5. [Exercício 05: Diagonal principal](./src/Nivel_04/Exercicio05.java)
-6. [Exercício 06: Diagonal secundária](./src/Nivel_04/Exercicio06.java)
-7. [Exercício 07: Somar elementos](./src/Nivel_04/Exercicio07.java)
-8. [Exercício 08: Média double](./src/Nivel_04/Exercicio08.java)
-9. [Exercício 09: Vogais char](./src/Nivel_04/Exercicio09.java)
-10. [Exercício 10: Strings começando com A](./src/Nivel_04/Exercicio10.java)
+1. [Exercício 01: Criar matriz 2x2 manual](./src/Nivel_4/Exercicio01.java)
+2. [Exercício 02: Matriz 3x3 digitada](./src/Nivel_4/Exercicio02.java)
+3. [Exercício 03: Exibir matriz 4x4](./src/Nivel_4/Exercicio03.java)
+4. [Exercício 04: Aleatórios 3x3](./src/Nivel_4/Exercicio04.java)
+5. [Exercício 05: Diagonal principal](./src/Nivel_4/Exercicio05.java)
+6. [Exercício 06: Diagonal secundária](./src/Nivel_4/Exercicio06.java)
+7. [Exercício 07: Somar elementos](./src/Nivel_4/Exercicio07.java)
+8. [Exercício 08: Média double](./src/Nivel_4/Exercicio08.java)
+9. [Exercício 09: Vogais char](./src/Nivel_4/Exercicio09.java)
+10. [Exercício 10: Strings começando com A](./src/Nivel_4/Exercicio10.java)
 
 ---
 

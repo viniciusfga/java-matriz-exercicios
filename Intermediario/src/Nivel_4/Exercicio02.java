@@ -1,4 +1,4 @@
-package Nivel_04;
+package Nivel_4;
 import java.util.Scanner;
 
 public class Exercicio02 {
