@@ -24,10 +24,10 @@ public class Exercicio24 {
         planilha[1][1] = disciplinas;
 
         for (int i = 1; i <= planilha[1].length - 1; i++) {
-            planilha[i][2] = notas[i];
+            planilha[i][0] = String.valueOf(notas[i]);
+            planilha[1][3] = (notas[i] >= 6) ? "Aprovado" : "Reprovado";
         }
 
-        planilha[1][3] = (notas >= 6) ? "Aprovado" : "Reprovado";
 
         return planilha;
     }
