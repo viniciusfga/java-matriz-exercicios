@@ -1,6 +1,6 @@
 public class Exercicio04 {
 
-    static void main() {
+    public static void main(String[] args) {
 
         System.out.println("Imprimir a matriz com os elementos separados por |.");
 

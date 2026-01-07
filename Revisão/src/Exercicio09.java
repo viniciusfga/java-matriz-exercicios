@@ -1,6 +1,6 @@
 public class Exercicio09 {
 
-    static void main() {
+    public static void main(String[] args) {
 
         System.out.println("Criar uma matriz 3x3 em que os valores são iguais à soma dos índices (i + j).");
 

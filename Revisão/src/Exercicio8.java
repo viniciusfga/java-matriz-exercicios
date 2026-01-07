@@ -1,6 +1,6 @@
 public class Exercicio8 {
 
-    static void main() {
+    public static void main(String[] args) {
 
         System.out.println("Preencher uma matriz 3x1 com a tabuada do número 2.");
 

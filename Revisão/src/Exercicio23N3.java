@@ -1,6 +1,6 @@
 public class Exercicio23N3 {
 
-    static void main() {
+    public static void main(String[] args) {
 
         System.out.println("Criar uma matriz 3x3 com a letra 'X' em cada canto e espaços no centro.");
 

@@ -1,6 +1,6 @@
 public class Exercicio06 {
 
-    static void main() {
+    public static void main(String[] args) {
 
         System.out.println("Imprimir todos os índices (i, j) de uma matriz 3x3.");
 
