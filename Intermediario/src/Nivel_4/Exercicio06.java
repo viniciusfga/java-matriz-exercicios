@@ -1,9 +1,14 @@
 package Nivel_4;
 
+
+/**
+ * Exercício 06 - Nível 4
+ * Objetivo: Mostrar apenas os elementos da diagonal secundária.
+ */
 public class Exercicio06 {
     public static void main(String[] args) {
 
-        System.out.println("Mostrar apenas os elementos da diagonal secundária.");
+        
 
         int[][] matriz = {
                 {1, 2, 3},

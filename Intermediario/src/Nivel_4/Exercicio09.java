@@ -1,9 +1,14 @@
 package Nivel_4;
 
+
+/**
+ * Exercício 09 - Nível 4
+ * Objetivo: Criar uma matriz de char e exibir somente as vogais.
+ */
 public class Exercicio09 {
     public static void main(String[] args) {
 
-        System.out.println("Criar uma matriz de char e exibir somente as vogais.");
+        
 
         char[][] matriz = {
                 {'a', 'b', 'c'},

@@ -1,9 +1,14 @@
 package Nivel_1;
 
+
+/**
+ * Exercício 02 - Nível 1
+ * Objetivo: Atribuir valores fixos à matriz e imprimir todos os elementos.
+ */
 public class Exercicio02 {
     public static void main(String[] args) {
 
-        System.out.println("Atribuir valores fixos à matriz e imprimir todos os elementos.");
+        
 
         // Criando uma matriz 2x2 com valores fixos
         int[][] matriz = new int[2][2];

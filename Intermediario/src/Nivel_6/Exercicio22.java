@@ -1,9 +1,14 @@
 package Nivel_6;
 
+
+/**
+ * Exercício 22 - Nível 6
+ * Objetivo: Multiplicar duas matrizes compatíveis.
+ */
 public class Exercicio22 {
     public static void main(String[] args) {
 
-        System.out.println("Multiplicar duas matrizes compatíveis.");
+        
 
         int[][] matrizA = {
                 {3, 3, 3},

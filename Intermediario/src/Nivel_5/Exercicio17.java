@@ -1,9 +1,14 @@
 package Nivel_5;
 
+
+/**
+ * Exercício 17 - Nível 5
+ * Objetivo: Somar os elementos de cada linha e exibir a soma.
+ */
 public class Exercicio17 {
     public static void main(String[] args) {
 
-        System.out.println("Somar os elementos de cada linha e exibir a soma.");
+        
 
         int[][] matriz = {
                 {1, 2, 1},

@@ -1,9 +1,14 @@
 package Nivel_3;
 
+
+/**
+ * Exercício 21 - Nível 3
+ * Objetivo: Ler uma matriz 3x3 e imprimir a soma da diagonal principal.
+ */
 public class Exercicio21 {
     public static void main(String[] args) {
 
-        System.out.println("Ler uma matriz 3x3 e imprimir a soma da diagonal principal.");
+        
 
         int[][] matriz = {
                 {4, 8, 2},

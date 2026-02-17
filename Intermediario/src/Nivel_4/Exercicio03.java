@@ -1,9 +1,14 @@
 package Nivel_4;
 
+
+/**
+ * Exercício 03 - Nível 4
+ * Objetivo: Exibir todos os elementos de uma matriz 4x4.
+ */
 public class Exercicio03 {
     public static void main(String[] args) {
 
-        System.out.println("Exibir todos os elementos de uma matriz 4x4.");
+        
 
         int[][] matriz = {
                 {1, 2, 3, 4},

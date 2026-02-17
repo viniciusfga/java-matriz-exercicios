@@ -1,9 +1,14 @@
 package Nivel_1;
 
+
+/**
+ * Exercício 08 - Nível 1
+ * Objetivo: Criar uma matriz 4x1 com os primeiros quatro números pares.
+ */
 public class Exercicio08 {
     public static void main(String[] args) {
 
-        System.out.println("Criar uma matriz 4x1 com os primeiros quatro números pares.");
+        
 
         int[][] matriz = new int[4][1];
 

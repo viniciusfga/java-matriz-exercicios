@@ -1,9 +1,14 @@
 package Nivel_1;
 
+
+/**
+ * Exercício 03 - Nível 1
+ * Objetivo: Imprimir uma matriz linha por linha usando dois for.
+ */
 public class Exercicio03 {
     public static void main(String[] args) {
 
-        System.out.println("Imprimir uma matriz linha por linha usando dois for.");
+        
 
         // Exemplo criando uma matriz 3x3
         int[][] matriz = {

@@ -1,9 +1,14 @@
 package Nivel_2;
 
+
+/**
+ * Exercício 12 - Nível 2
+ * Objetivo: Criar uma matriz 2x2 com os números 1 a 4 em ordem.
+ */
 public class Exercicio12 {
     public static void main(String[] args) {
 
-        System.out.println("Criar uma matriz 2x2 com os números 1 a 4 em ordem.");
+        
 
         int[][] matriz = new int[2][2];
 

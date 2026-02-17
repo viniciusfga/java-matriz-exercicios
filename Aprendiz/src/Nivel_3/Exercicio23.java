@@ -1,9 +1,14 @@
 package Nivel_3;
 
+
+/**
+ * Exercício 23 - Nível 3
+ * Objetivo: Criar uma matriz 3x3 com a letra 'X' em cada canto e espaços no centro.
+ */
 public class Exercicio23 {
     public static void main(String[] args) {
 
-        System.out.println("Criar uma matriz 3x3 com a letra 'X' em cada canto e espaços no centro.");
+        
 
         String[][] matriz = new String[3][3];
 

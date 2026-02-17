@@ -1,9 +1,14 @@
 package Nivel_2;
 
+
+/**
+ * Exercício 19 - Nível 2
+ * Objetivo: Imprimir todos os elementos múltiplos de 3 de uma matriz 4x4.
+ */
 public class Exercicio19 {
     public static void main(String[] args) {
 
-        System.out.println("Imprimir todos os elementos múltiplos de 3 de uma matriz 4x4.");
+        
 
         int[][] matriz = {
                 {4, 3, 2, 6},

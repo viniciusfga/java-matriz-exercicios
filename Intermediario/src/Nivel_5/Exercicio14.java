@@ -2,11 +2,16 @@ package Nivel_5;
 
 import java.util.Scanner;
 
+
+/**
+ * Exercício 14 - Nível 5
+ * Objetivo: Substituir todos os elementos negativos por zero.
+ */
 public class Exercicio14 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Substituir todos os elementos negativos por zero.");
+        
 
         int[][] matriz = {
                 {-1, 2, 3},

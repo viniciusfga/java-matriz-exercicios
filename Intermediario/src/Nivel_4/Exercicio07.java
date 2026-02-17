@@ -1,9 +1,14 @@
 package Nivel_4;
 
+
+/**
+ * Exercício 07 - Nível 4
+ * Objetivo: Somar todos os elementos de uma matriz.
+ */
 public class Exercicio07 {
     public static void main(String[] args) {
 
-        System.out.println("Somar todos os elementos de uma matriz.");
+        
 
         int[][] matriz = {
                 {1, 2, 3},

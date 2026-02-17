@@ -1,9 +1,14 @@
 package Nivel_6;
 
+
+/**
+ * Exercício 21 - Nível 6
+ * Objetivo: Criar duas matrizes e somá-las elemento por elemento.
+ */
 public class Exercicio21 {
     public static void main(String[] args) {
 
-        System.out.println("Criar duas matrizes e somá-las elemento por elemento.");
+        
 
         int[][] matrizA = {
                 {3, 3, 3},

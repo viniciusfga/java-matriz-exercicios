@@ -1,9 +1,14 @@
 package Nivel_1;
 
+
+/**
+ * Exercício 04 - Nível 1
+ * Objetivo: Imprimir a matriz com os elementos separados por |.
+ */
 public class Exercicio04 {
     public static void main(String[] args) {
 
-        System.out.println("Imprimir a matriz com os elementos separados por |.");
+        
 
         // Exemplo criando uma matriz 3x3
         int[][] matriz = {

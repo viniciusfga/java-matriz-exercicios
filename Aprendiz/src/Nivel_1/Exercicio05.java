@@ -2,11 +2,16 @@ package Nivel_1;
 
 import java.util.Scanner;
 
+
+/**
+ * Exercício 05 - Nível 1
+ * Objetivo: Ler uma matriz 2x3 do teclado com Scanner.
+ */
 public class Exercicio05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Ler uma matriz 2x3 do teclado com Scanner.");
+        
 
         int[][] matriz = new int[2][3];
 

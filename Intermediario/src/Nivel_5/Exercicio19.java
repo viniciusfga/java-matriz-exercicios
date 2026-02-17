@@ -1,9 +1,14 @@
 package Nivel_5;
 
+
+/**
+ * Exercício 19 - Nível 5
+ * Objetivo: Transpor uma matriz (inverter linhas por colunas).
+ */
 public class Exercicio19 {
     public static void main(String[] args) {
 
-        System.out.println("Transpor uma matriz (inverter linhas por colunas).");
+        
 
         int[][] matriz = {
                 {1, 1, 1},

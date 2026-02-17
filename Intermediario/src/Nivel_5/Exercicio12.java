@@ -1,9 +1,14 @@
 package Nivel_5;
 
+
+/**
+ * Exercício 12 - Nível 5
+ * Objetivo: Contar quantos elementos são pares em uma matriz.
+ */
 public class Exercicio12 {
     public static void main(String[] args) {
 
-        System.out.println("Contar quantos elementos são pares em uma matriz.");
+        
 
         int[][] matriz = {
                 {1, 2, 3},

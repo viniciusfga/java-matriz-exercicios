@@ -1,9 +1,13 @@
 package Nivel_4;
 
+
+/**
+ * Exercício 01 - Nível 4
+ * Objetivo: Criar uma matriz 2x2 de inteiros e preencher manualmente.
+ */
 public class Exercicio01 {
     public static void main(String[] args) {
 
-        System.out.println("Criar uma matriz 2x2 de inteiros e preencher manualmente.");
 
         int[][] matriz_A = {
                 {3, 2},

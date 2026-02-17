@@ -1,9 +1,14 @@
 package Nivel_3;
 
+
+/**
+ * Exercício 22 - Nível 3
+ * Objetivo: Verificar se todos os elementos de uma matriz 2x2 são iguais.
+ */
 public class Exercicio22 {
     public static void main(String[] args) {
 
-        System.out.println("Verificar se todos os elementos de uma matriz 2x2 são iguais.");
+        
 
         int[][] matriz = {
                 {2, 2},

@@ -1,9 +1,14 @@
 package Nivel_2;
 
+
+/**
+ * Exercício 20 - Nível 2
+ * Objetivo: Criar uma matriz 3x3 com valores aleatórios entre 0 e 9 e contar quantos são maiores que 5.
+ */
 public class Exercicio20 {
     public static void main(String[] args) {
 
-        System.out.println("Criar uma matriz 3x3 com valores aleatórios entre 0 e 9 e contar quantos são maiores que 5.");
+        
 
         int[][] matriz = {
                 {4, 8, 2},

@@ -1,9 +1,14 @@
 package Nivel_2;
 
+
+/**
+ * Exercício 18 - Nível 2
+ * Objetivo: Criar uma matriz 3x3 com true se i == j, false caso contrário.
+ */
 public class Exercicio18 {
     public static void main(String[] args) {
 
-        System.out.println("Criar uma matriz 3x3 com true se i == j, false caso contrário.");
+        
 
         String[][] matriz = new String[3][3];
 

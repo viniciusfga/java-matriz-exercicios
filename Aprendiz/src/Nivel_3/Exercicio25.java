@@ -1,9 +1,14 @@
 package Nivel_3;
 
+
+/**
+ * Exercício 25 - Nível 3
+ * Objetivo: Ler uma matriz 3x3 e exibir o maior valor contido nela.
+ */
 public class Exercicio25 {
     public static void main(String[] args) {
 
-        System.out.println("Ler uma matriz 3x3 e exibir o maior valor contido nela.");
+        
 
         int[][] matriz = {
                 {1, 2, 3},

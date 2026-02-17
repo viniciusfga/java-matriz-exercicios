@@ -1,9 +1,14 @@
 package Nivel_5;
 
+
+/**
+ * Exercício 20 - Nível 5
+ * Objetivo: Verificar se uma matriz 3x3 é um quadrado mágico.
+ */
 public class Exercicio20 {
     public static void main(String[] args) {
 
-        System.out.println("Verificar se uma matriz 3x3 é um quadrado mágico.");
+        
 
         int[][] matriz = {
                 {3, 3, 3},
@@ -55,9 +60,9 @@ public class Exercicio20 {
         if (linhas && colunas && diagonais &&
                 somaReferencia == somaColunas[0] &&
                 somaReferencia == somaDiagonais[0]) {
-            System.out.println("É mágico");
+            
         } else {
-            System.out.println("Não é mágico");
+            
         }
     }
 }

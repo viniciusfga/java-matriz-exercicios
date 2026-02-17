@@ -1,9 +1,14 @@
 package Nivel_4;
 
+
+/**
+ * Exercício 08 - Nível 4
+ * Objetivo: Calcular a média dos elementos de uma matriz double[][].
+ */
 public class Exercicio08 {
     public static void main(String[] args) {
 
-        System.out.println("Calcular a média dos elementos de uma matriz double[][].");
+        
 
         double[][] matriz = {
                 {1, 2, 3},

@@ -1,10 +1,15 @@
 package Nivel_4;
 import java.util.Scanner;
 
+
+/**
+ * Exercício 02 - Nível 4
+ * Objetivo: Criar uma matriz 3x3 e preencher com valores digitados pelo usuário.
+ */
 public class Exercicio02 {
     public static void main(String[] args) {
 
-        System.out.println("Criar uma matriz 3x3 e preencher com valores digitados pelo usuário.");
+        
 
         Scanner sc = new Scanner(System.in);
 

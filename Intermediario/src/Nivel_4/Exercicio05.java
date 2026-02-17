@@ -1,9 +1,14 @@
 package Nivel_4;
 
+
+/**
+ * Exercício 05 - Nível 4
+ * Objetivo: Mostrar somente os elementos da diagonal principal.
+ */
 public class Exercicio05 {
     public static void main(String[] args) {
 
-        System.out.println("Mostrar somente os elementos da diagonal principal.");
+        
 
         int[][] matriz = {
                 {1, 2, 3},

@@ -1,9 +1,14 @@
 package Nivel_2;
 
+
+/**
+ * Exercício 15 - Nível 2
+ * Objetivo: Imprimir somente os elementos da primeira linha de uma matriz.
+ */
 public class Exercicio15 {
     public static void main(String[] args) {
 
-        System.out.println("Imprimir somente os elementos da primeira linha de uma matriz.");
+        
 
         int[][] matriz = {
                 {4, 3, 2},

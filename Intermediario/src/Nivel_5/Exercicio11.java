@@ -1,9 +1,14 @@
 package Nivel_5;
 
+
+/**
+ * Exercício 11 - Nível 5
+ * Objetivo: Imprimir letras do alfabeto em uma matriz (ex: 5x5).
+ */
 public class Exercicio11 {
     public static void main(String[] args) {
 
-        System.out.println("Imprimir letras do alfabeto em uma matriz (ex: 5x5).");
+        
 
         char[][] matriz = new char[5][5];
 

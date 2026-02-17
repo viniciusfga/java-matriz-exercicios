@@ -1,9 +1,14 @@
 package Nivel_5;
 
+
+/**
+ * Exercício 16 - Nível 5
+ * Objetivo: Verificar se uma matriz é simétrica (m[i][j] == m[j][i]).
+ */
 public class Exercicio16 {
     public static void main(String[] args) {
 
-        System.out.println("Verificar se uma matriz é simétrica (m[i][j] == m[j][i]).");
+        
 
         int[][] matriz = {
                 {1, 0, 0},
@@ -31,9 +36,9 @@ public class Exercicio16 {
         }
 
         if (simetrica) {
-            System.out.println("É simétrica");
+            
         } else {
-                System.out.println("Não é simétrica");
+                
         }
 
     }

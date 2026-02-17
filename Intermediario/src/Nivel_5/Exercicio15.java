@@ -2,11 +2,16 @@ package Nivel_5;
 
 import java.util.Scanner;
 
+
+/**
+ * Exercício 15 - Nível 5
+ * Objetivo: Criar uma matriz identidade 4x4 (diagonal = 1, resto = 0).
+ */
 public class Exercicio15 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Criar uma matriz identidade 4x4 (diagonal = 1, resto = 0).");
+        
 
         int[][] matriz = new int[4][4];
 

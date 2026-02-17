@@ -1,9 +1,14 @@
 package Nivel_4;
 
+
+/**
+ * Exercício 10 - Nível 4
+ * Objetivo: Criar uma matriz de String com nomes e contar quantos começam com 'A'
+ */
 public class Exercicio10 {
     public static void main(String[] args) {
 
-        System.out.println("Criar uma matriz de String com nomes e contar quantos começam com 'A'");
+        
 
         String[][] matriz = {
                 {"Arthur", "Bruno"},

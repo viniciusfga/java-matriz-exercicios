@@ -1,9 +1,14 @@
 package Nivel_2;
 
+
+/**
+ * Exercício 17 - Nível 2
+ * Objetivo: Ler uma matriz 2x2 e imprimir seus elementos ao contrário (inverter a ordem).
+ */
 public class Exercicio17 {
     public static void main(String[] args) {
 
-        System.out.println("Ler uma matriz 2x2 e imprimir seus elementos ao contrário (inverter a ordem).");
+        
 
         int[][] matriz = {
                 {4, 3},

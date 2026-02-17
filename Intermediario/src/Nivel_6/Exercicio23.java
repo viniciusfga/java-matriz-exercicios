@@ -2,10 +2,15 @@ package Nivel_6;
 
 import java.util.Arrays;
 
+
+/**
+ * Exercício 23 - Nível 6
+ * Objetivo: Ordenar todos os elementos de uma matriz em ordem crescente.
+ */
 public class Exercicio23 {
     public static void main(String[] args) {
 
-        System.out.println("Ordenar todos os elementos de uma matriz em ordem crescente.");
+        
 
         int[][] matriz = {
                 {9, 8, 7},

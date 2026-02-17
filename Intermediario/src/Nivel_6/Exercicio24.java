@@ -3,6 +3,11 @@ package Nivel_6;
 import javax.swing.*;
 import java.util.Scanner;
 
+
+/**
+ * Exercício 24 - Nível 6
+ * Objetivo: Quantidade de Alunos: 
+ */
 public class Exercicio24 {
     /*
     Simular uma planilha de notas (matriz alunos × disciplinas), calcular médias e aprovações.
@@ -54,16 +59,16 @@ public class Exercicio24 {
 
 
 
-        System.out.println("Quantidade de Alunos: ");
+        
         int N  = sc.nextInt();
 
         String[] aluno = new String[N];
         double[] notas = new double[N];
 
-        System.out.println("Disciplina: ");
+        
         String disciplina = sc.next();
 
-        System.out.println("Nome e notas do aluno [i]:");
+        
         for (int i = 0; i < N; i++) {
             aluno[i] = sc.next();
             notas[i] = sc.nextDouble();

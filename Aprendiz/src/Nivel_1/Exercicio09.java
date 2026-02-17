@@ -1,9 +1,14 @@
 package Nivel_1;
 
+
+/**
+ * Exercício 09 - Nível 1
+ * Objetivo: Criar uma matriz 1x5 com os dias úteis da semana como String.
+ */
 public class Exercicio09 {
     public static void main(String[] args) {
 
-        System.out.println("Criar uma matriz 1x5 com os dias úteis da semana como String.");
+        
 
         String[][] dias = new String[1][5];
 

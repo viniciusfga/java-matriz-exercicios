@@ -1,9 +1,14 @@
 package Nivel_1;
 
+
+/**
+ * Exercício 07 - Nível 1
+ * Objetivo: Preencher uma matriz 3x1 com a tabuada do número 2.
+ */
 public class Exercicio07 {
     public static void main(String[] args) {
 
-        System.out.println("Preencher uma matriz 3x1 com a tabuada do número 2.");
+        
 
         int[][] matriz = new int[3][1];
 

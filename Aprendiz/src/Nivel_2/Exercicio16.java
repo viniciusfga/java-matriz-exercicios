@@ -1,9 +1,14 @@
 package Nivel_2;
 
+
+/**
+ * Exercício 16 - Nível 2
+ * Objetivo: Imprimir somente a última coluna de uma matriz 3x3.
+ */
 public class Exercicio16 {
     public static void main(String[] args) {
 
-        System.out.println("Imprimir somente a última coluna de uma matriz 3x3.");
+        
 
         int[][] matriz = {
                 {4, 3, 2},

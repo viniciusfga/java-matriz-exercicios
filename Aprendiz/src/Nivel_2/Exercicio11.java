@@ -1,9 +1,14 @@
 package Nivel_2;
 
+
+/**
+ * Exercício 11 - Nível 2
+ * Objetivo: Criar uma matriz 3x3 com todos os elementos iguais a 7.
+ */
 public class Exercicio11 {
     public static void main(String[] args) {
 
-        System.out.println("Criar uma matriz 3x3 com todos os elementos iguais a 7.");
+        
 
         int[][] matriz = new int[3][3];
 

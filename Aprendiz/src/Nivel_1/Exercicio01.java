@@ -1,15 +1,14 @@
 package Nivel_1;
 
+
+/**
+ * Exercício 01 - Nível 1
+ * Objetivo: Declarar uma matriz 2x2 de inteiros.
+ */
 public class Exercicio01 {
     public static void main(String[] args) {
 
-        // Descrição do exercício
-        System.out.println("Criar um método void que imprime \"Olá, mundo!\".");
+        int[][] matriz = new int[2][2];
 
-        helloworld();
-
-    }
-    public static void helloworld (){
-        System.out.println("Olá, mundo!");
     }
 }
