@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98pt" height="83pt" viewBox="0.00 0.00 98.00 83.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 79.4)">
+<title>Matriz3x3</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-79.4 94,-79.4 94,4 -4,4"/>
+<!-- matriz -->
+<g id="node1" class="node">
+<title>matriz</title>
+<polygon fill="none" stroke="black" points="0,-0.5 0,-74.9 90,-74.9 90,-0.5 0,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="15" y="-58.3" font-family="Times,serif" font-size="14.00">00</text>
+<polyline fill="none" stroke="black" points="0,-50.1 30,-50.1"/>
+<text xml:space="preserve" text-anchor="middle" x="15" y="-33.5" font-family="Times,serif" font-size="14.00">01</text>
+<polyline fill="none" stroke="black" points="0,-25.3 30,-25.3"/>
+<text xml:space="preserve" text-anchor="middle" x="15" y="-8.7" font-family="Times,serif" font-size="14.00">02</text>
+<polyline fill="none" stroke="black" points="30,-0.5 30,-74.9"/>
+<text xml:space="preserve" text-anchor="middle" x="45" y="-58.3" font-family="Times,serif" font-size="14.00">10</text>
+<polyline fill="none" stroke="black" points="30,-50.1 60,-50.1"/>
+<text xml:space="preserve" text-anchor="middle" x="45" y="-33.5" font-family="Times,serif" font-size="14.00">11</text>
+<polyline fill="none" stroke="black" points="30,-25.3 60,-25.3"/>
+<text xml:space="preserve" text-anchor="middle" x="45" y="-8.7" font-family="Times,serif" font-size="14.00">12</text>
+<polyline fill="none" stroke="black" points="60,-0.5 60,-74.9"/>
+<text xml:space="preserve" text-anchor="middle" x="75" y="-58.3" font-family="Times,serif" font-size="14.00">20</text>
+<polyline fill="none" stroke="black" points="60,-50.1 90,-50.1"/>
+<text xml:space="preserve" text-anchor="middle" x="75" y="-33.5" font-family="Times,serif" font-size="14.00">21</text>
+<polyline fill="none" stroke="black" points="60,-25.3 90,-25.3"/>
+<text xml:space="preserve" text-anchor="middle" x="75" y="-8.7" font-family="Times,serif" font-size="14.00">22</text>
+</g>
+</g>
+</svg>

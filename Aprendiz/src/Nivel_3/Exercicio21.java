@@ -1,6 +1,5 @@
 package Nivel_3;
 
-
 /**
  * Exercício 21 - Nível 3
  * Objetivo: Ler uma matriz 3x3 e imprimir a soma da diagonal principal.

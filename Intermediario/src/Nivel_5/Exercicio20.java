@@ -60,9 +60,10 @@ public class Exercicio20 {
         if (linhas && colunas && diagonais &&
                 somaReferencia == somaColunas[0] &&
                 somaReferencia == somaDiagonais[0]) {
-            
+                System.out.println("É um quadrado mágico!");
+
         } else {
-            
+                System.out.println("Não é um quadrado mágico.");
         }
     }
 }
